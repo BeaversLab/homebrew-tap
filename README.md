@@ -6,11 +6,11 @@ Homebrew tap for BeaversLab CLI tools.
 
 ```bash
 brew tap beaverslab/tap
-brew install waylog
+brew install chatlog
 ```
 
 ## Available Formulas
 
 | Formula | Description |
 |---------|-------------|
-| waylog | Automatically save chats from Claude, Codex, and Gemini CLI to local Markdown files |
+| chatlog | Extract and save agent chat logs (Claude, Codex, Gemini CLI) as local Markdown files |
