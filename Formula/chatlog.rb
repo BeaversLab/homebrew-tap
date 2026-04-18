@@ -1,9 +1,9 @@
 class Chatlog < Formula
-  desc "Extract and save agent chat logs (Claude, Codex, Gemini CLI) as local Markdown files."
-  homepage "https://github.com/BeaversLab/waylog-cli"
-  url "https://github.com/BeaversLab/waylog-cli/releases/download/v0.2.4/chatlog-macos-universal.tar.gz"
-  sha256 "placeholder_will_be_updated_by_ci"
-  version "0.2.4"
+  desc "Seamlessly sync, preserve, and version-control your AI coding conversations locally"
+  homepage "https://github.com/BeaversLab/chatlog"
+  url "https://github.com/BeaversLab/chatlog/releases/download/v0.3.0/chatlog-macos-universal.tar.gz"
+  sha256 "a7882b59251e86b100d8341aa1b4145bbbffa8b10dd665c342e88296566f282c"
+  version "v0.3.0"
   license "Apache-2.0"
 
   def install
