@@ -10,7 +10,7 @@ brew install chatlog
 brew install x-skill
 ```
 
-`x-skill` 当前固定到公开的 `v0.1.1` 源码归档，Homebrew 会自动拉取 Rust 作为构建依赖并在本地编译安装。
+`x-skill` 当前优先使用 `v0.1.2` 预编译二进制分发；Linux 与 Apple Silicon macOS 直接安装二进制，Intel macOS 暂时回退到源码构建。
 
 ## Available Formulas
 
